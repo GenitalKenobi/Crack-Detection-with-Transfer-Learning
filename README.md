@@ -52,3 +52,10 @@ base model: Resnet50, without Dense layers
 
 subsequent layers: Dense layer of size 2048, Dense layer of size 128, softmax layer for 2 classes
 optimizer: Adam - learning rate 0.001
+
+Sample training images:
+
+![image](https://user-images.githubusercontent.com/81284513/213267807-47243ad1-a49f-4981-9423-26bd1d1193a2.png)
+
+![image](https://user-images.githubusercontent.com/81284513/213267917-a27004b9-5f05-4260-9038-5d2cccb5a3fc.png)
+
