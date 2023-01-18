@@ -59,3 +59,9 @@ Sample training images:
 
 ![image](https://user-images.githubusercontent.com/81284513/213267917-a27004b9-5f05-4260-9038-5d2cccb5a3fc.png)
 
+
+sample prediction with image:
+
+![image](https://user-images.githubusercontent.com/81284513/213268087-e0521485-def3-4b5a-8602-1baff377bfca.png)
+
+prediction: Cracked
