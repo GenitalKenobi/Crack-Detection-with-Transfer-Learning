@@ -29,8 +29,9 @@ predict set - 6 images of size 4800x3200
 data augmentation:
 
 methods: 
+         
          rotation_range = 3,
-
+         
          vertical_flip=True,
          
          horizontal_flip = True,
