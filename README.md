@@ -6,8 +6,11 @@ Dataset: https://www.kaggle.com/datasets/xinzone/surface-crack
 Formula's used to calculate the Metrics:
 
 Accuracy :  (True Positives + True Negatives)/ True Positives + True Negatives + False Positives + False Negatives
+
 Precision : TruePositives / (True Positives + False Positives)
+
 Recall : TruePositives / (True Positives + False Negatives)
+
 F1Score : (2*Precision*Recall)/(Precision + Recall)
 
 Metrics for trained model
